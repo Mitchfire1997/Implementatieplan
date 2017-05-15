@@ -30,7 +30,7 @@
 </style>
 
        <table>
-                    <form action='http://implementatiekt3/organisator-aanmelden/' method='post'>
+                    <form action='http://implementatiekt3.hole.es/organisator-aanmelden/' method='post'>
                     
                     <tr>
                         <td>Email:</td><td><input type='email' name='email'/></td>
