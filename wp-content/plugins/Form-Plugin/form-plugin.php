@@ -54,7 +54,7 @@
           
        $output = " 
                     <table>
-                    <form action='http://implementatiekt3/registreren_bezoeker' method='post'>
+                    <form action='http://implementatiekt3.hole.es/registreren_bezoeker' method='post'>
                     <tr>
                         <td>Voornaam:</td><td><input type='text' name='voornaam' required/></td>
                     </tr>
