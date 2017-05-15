@@ -63,7 +63,7 @@
 
              
      <table>
-                    <form action="http://implementatiekt3/spreker-aanmelden/" method="post">
+                    <form action="http://implementatiekt3.hole.es/spreker-aanmelden/" method="post">
                     <tr>
                         <td>naam:</td><td> <input type="text" name="naam"/></td>
                     </tr>    
