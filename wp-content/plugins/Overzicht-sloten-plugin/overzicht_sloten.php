@@ -2570,10 +2570,10 @@
                     </form>
                     </table>
         
-                <a href="http://implementatiekt3/aanvraag/">
+                <a href="http://implementatiekt3.hole.es/aanvraag/">
     <button>Aanvragen</button>
 </a>
-<a href="http://implementatiekt3/aantallen/">
+<a href="http://implementatiekt3.hole.es/aantallen/">
     <button>Ticket aantallen</button>
 </a>
        </div>
