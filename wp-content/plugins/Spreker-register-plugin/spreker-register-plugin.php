@@ -63,7 +63,7 @@
 
              
      <table>
-                    <form action="http://implementatiekt3.hole.es/spreker-aanmelden/" method="post">
+                    <form action="http://.hole.es/spreker-aanmelden/" method="post">
                     <tr>
                         <td>naam:</td><td> <input type="text" name="naam"/></td>
                     </tr>    
@@ -97,7 +97,7 @@
                     <tr>
                         <td>1e Keus:</td><td><?php
         
-            $conn = new mysqli('mysql.hostinger.nl', 'u912813865_dudyt', 'implementatie', 'u912813865_vyrej') 
+            $conn = new mysqli('mysql.hostinger.nl', '', 'geheim', '') 
             or die ('Cannot connect to db');
 
     $result = $conn->query("select id, dag, zaal, begintijd, eindtijd from slot where Tag = 1");
