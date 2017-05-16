@@ -16,9 +16,9 @@
         
    session_start();
    define('DB_SERVER', 'mysql.hostinger.nl');
-   define('DB_USERNAME', 'u912813865_dudyt');
-   define('DB_PASSWORD', 'implementatie');
-   define('DB_DATABASE', 'u912813865_vyrej');
+   define('DB_USERNAME', '');
+   define('DB_PASSWORD', 'geheim');
+   define('DB_DATABASE', '');
    $db = mysqli_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
         ?>
 
@@ -30,7 +30,7 @@
 </style>
 
        <table>
-                    <form action='http://implementatiekt3.hole.es/organisator-aanmelden/' method='post'>
+                    <form action='http://.hole.es/organisator-aanmelden/' method='post'>
                     
                     <tr>
                         <td>Email:</td><td><input type='email' name='email'/></td>
