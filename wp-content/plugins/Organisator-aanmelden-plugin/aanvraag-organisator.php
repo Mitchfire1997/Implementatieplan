@@ -57,10 +57,10 @@
                         <td>".$result[$i]["1e_slot"]."</td>
                         <td>".$result[$i]["onderwerp"]."</td>
                         <td>".$result[$i]["omschrijving"]."</td>
-                        <td><a href='http://implementatiekt3.hole.es/aanvraag/?id=".$result[$i]["1e_slot"]."&action=update'>
-                        <img src='http://implementatiekt3.hole.es/wp-content/plugins/Organisator-aanmelden-plugin/images/vink.png' alt='vink'</a></td>
-                        <td><a href='http://implementatiekt3.hole.es/aanvraag/?id=".$result[$i]["id"]."&action=delete'>
-                        <img src='http://implementatiekt3.hole.es/wp-content/plugins/Organisator-aanmelden-plugin/images/drop.png' alt='cross'</a></td>
+                        <td><a href='http://.hole.es/aanvraag/?id=".$result[$i]["1e_slot"]."&action=update'>
+                        <img src='http://.hole.es/wp-content/plugins/Organisator-aanmelden-plugin/images/vink.png' alt='vink'</a></td>
+                        <td><a href='http://.hole.es/aanvraag/?id=".$result[$i]["id"]."&action=delete'>
+                        <img src='http://.hole.es/wp-content/plugins/Organisator-aanmelden-plugin/images/drop.png' alt='cross'</a></td>
                     </tr>" ;  
             }
             echo "</table>";
