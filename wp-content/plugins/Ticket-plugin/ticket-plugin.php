@@ -87,7 +87,7 @@
         </script>
         </head>
         <body>       
-            <form action='http://.hole.es/ticket' method='post'>
+            <form action='http://.hol.es/ticket' method='post'>
                 <table>
                     <tbody class="bodyClass" >
                 <tr>    
