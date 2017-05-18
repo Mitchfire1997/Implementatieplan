@@ -63,7 +63,7 @@
 
              
      <table>
-                    <form action="http://.hole.es/spreker-aanmelden/" method="post">
+                    <form action="http://.hol.es/spreker-aanmelden/" method="post">
                     <tr>
                         <td>naam:</td><td> <input type="text" name="naam"/></td>
                     </tr>    
